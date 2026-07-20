@@ -65,11 +65,11 @@ Source citations are a core part of the experience. HR answers affect real decis
 
 | Resource | URL |
 | --- | --- |
-| Frontend | `https://your-vercel-app.vercel.app` |
-| Backend | `https://your-render-service.onrender.com` |
-| Swagger / OpenAPI | `https://your-render-service.onrender.com/docs` |
-| GitHub | `https://github.com/your-username/hr-policy-assistant` |
-| Demo Video | `https://your-demo-video-url.example` |
+| Frontend | `https://hr-policy-assistant-gules.vercel.app/` |
+| Backend | `https://hr-policy-assistant-b595.onrender.com` |
+| Swagger / OpenAPI | `https://hr-policy-assistant-b595.onrender.com/docs` |
+| GitHub | `https://github.com/anoopsinghji/hr-policy-assistant` |
+| Demo Video | `https://github.com/anoopsinghji/HR-Policy-Assistant` |
 
 ## Screenshots
 
@@ -616,9 +616,9 @@ See [`LICENSE`](./LICENSE) for details.
 
 | Field | Link |
 | --- | --- |
-| GitHub | [github.com/your-username](https://github.com/your-username) |
-| LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| Portfolio | [your-portfolio.example](https://your-portfolio.example) |
+| GitHub | [github.com/your-username](https://github.com/anoosinghji) |
+| LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/anoopsinghji) |
+| Portfolio | [your-portfolio.example](https://anoop-singh-portfolio.vercel.app/) |
 | Email | `your.email@example.com` |
 
 > Built as a production-style AI engineering project focused on practical RAG architecture, deployment, and user-facing reliability.
