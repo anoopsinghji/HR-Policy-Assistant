@@ -619,7 +619,7 @@ See [`LICENSE`](./LICENSE) for details.
 | GitHub | [github.com/Anoop Singh](https://github.com/anoosinghji) |
 | LinkedIn | [linkedin.com/in/Anoop Singh](https://linkedin.com/in/anoopsinghji) |
 | Portfolio | [My-portfolio](https://anoop-singh-portfolio.vercel.app/) |
-| Email | `your.email@example.com` |
+| Email | `bfcroay@gmail.com` |
 
 > Built as a production-style AI engineering project focused on practical RAG architecture, deployment, and user-facing reliability.
 
