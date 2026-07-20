@@ -75,23 +75,23 @@ Source citations are a core part of the experience. HR answers affect real decis
 
 ### Home
 
-![Home screen](assets/screenshots/home.png)
+![Home screen](https://github.com/anoopsinghji/HR-Policy-Assistant/blob/b8333b3c6da3763c1e6169b033ab97b89f647d50/SS/Screenshot%202026-07-20%20202612.png)
 
 ### Chat
 
-![Chat interface](assets/screenshots/chat.png)
+![Chat interface](https://github.com/anoopsinghji/HR-Policy-Assistant/blob/b8333b3c6da3763c1e6169b033ab97b89f647d50/SS/Screenshot%202026-07-20%20202631.png)
 
 ### Upload
 
-![PDF upload flow](assets/screenshots/upload.png)
+![PDF upload flow](https://github.com/anoopsinghji/HR-Policy-Assistant/blob/b8333b3c6da3763c1e6169b033ab97b89f647d50/SS/Pdf%20upload%20flow.png)
 
 ### Settings
 
-![Settings panel](assets/screenshots/settings.png)
+![Settings panel](https://github.com/anoopsinghji/HR-Policy-Assistant/blob/b8333b3c6da3763c1e6169b033ab97b89f647d50/SS/Screenshot%202026-07-20%20202951.png)
 
 ### Source Citations
 
-![Source citation view](assets/screenshots/source-citation.png)
+![Source citation view](https://github.com/anoopsinghji/HR-Policy-Assistant/blob/b8333b3c6da3763c1e6169b033ab97b89f647d50/SS/Screenshot%202026-07-20%20144725.png)
 
 ### Demo
 
